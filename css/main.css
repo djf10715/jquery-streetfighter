@@ -53,11 +53,10 @@ body {
     height: 90px;
     display: none;
     float: left;
-    position: relative;
+    position: absolute;
     z-index: 10;
     top: 176px;
-    left; 538px;
-    float: left;
+    left: 538px;
 }
 
 /* * {
