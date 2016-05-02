@@ -23,7 +23,7 @@ $('.ryu').mouseenter(function() {
                 $(this).hide();
                 $(this).css('left', '520px');
             }
-        );;
+        );
     })
     .mouseup(function() {
         console.log('mouseup');
