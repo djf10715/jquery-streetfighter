@@ -17,8 +17,9 @@ body {
 
 .ryu {
     float: left;
-/*    width: 659px;
-    height: 494px; */
+    width: 659px;
+    height: 494px;
+    border: 3px solid red;
 }
 
 .ryu-still, .ryu-ready, .ryu-throwing {
@@ -57,6 +58,28 @@ body {
     z-index: 10;
     top: 176px;
     left: 540px;
+}
+
+.instruct-text {
+    font-family: 'Rock Salt', cursive;
+    font-weight: 600;
+    display: block;
+    width: 600px;
+    height: 400px;
+    text-align: left;
+    position: absolute;
+    padding-top: 75px;
+    left: 650px;
+    border: 3px solid blue;
+}
+
+.instruct-text p {
+    font-size: 24px;
+    width: 350px;
+}
+
+.instruct-text p:nth-child(2) {
+    margin-left: 150px;
 }
 
 /* * {
