@@ -31,8 +31,7 @@ $('.ryu').mouseenter(function() {
         $('.ryu-throwing').hide();
         $('.ryu-ready').show();
     });
-
- console.log( $(document).keydown(function( event ) {
+    $(document).keydown(function( event ) {
         if ( event.which == 88 ) {
             $('.ryu-still').hide();
             $('.ryu-ready').hide();
@@ -44,7 +43,7 @@ $('.ryu').mouseenter(function() {
             $('.ryu-cool').hide();
             $('.ryu-still').show();
         }
-    }));
+    });
 
 });
 
