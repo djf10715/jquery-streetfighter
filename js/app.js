@@ -32,6 +32,14 @@ $('.ryu').mouseenter(function() {
         $('.ryu-ready').show();
     });
 
+ console.log( $(document).keydown(function( event ) {
+        if ( event.which == 88 ) {
+            $('.ryu-still').hide();
+            $('.ryu-ready').hide();
+            $('.ryu-cool').show();
+        }
+    }));
+
 });
 
 function playHadouken () {
