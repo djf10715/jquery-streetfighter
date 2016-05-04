@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c6889e58-e386-4c15-8980-ac221fdd1f99" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.html" afterPath="$PROJECT_DIR$/main.html" />
     </list>
     <ignored path="jquery-streetfighter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -211,12 +210,12 @@
       <option name="presentableId" value="Default" />
       <updated>1461807921887</updated>
       <workItem from="1461807923280" duration="4651000" />
-      <workItem from="1461897719740" duration="13500000" />
+      <workItem from="1461897719740" duration="13657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18151000" />
+    <option name="totallyTimeSpent" value="18308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="714" extended-state="6" />
